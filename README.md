@@ -1,3 +1,5 @@
+Purpose of this certification is to secure digital assets, protect against threats, and ensure compliance.
+
 # Study guide to Exam [SC-300](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300)
 
 This study guide contains various links to official documentation in order to get certified for the [SC-300](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300) exam
